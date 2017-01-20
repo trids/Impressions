@@ -1,0 +1,7 @@
+ Scanner in = new Scanner(System.in);
+        int arr[] = new int[in.nextInt()];
+       
+        for(int arr_i=0; arr_i < arr.length; arr_i++){
+         
+                arr[arr_i] = in.nextInt();            
+        }
