@@ -1,3 +1,5 @@
+ //code used for taking inputs using scanner class
+ 
  Scanner in = new Scanner(System.in);
         int arr[] = new int[in.nextInt()];
        
