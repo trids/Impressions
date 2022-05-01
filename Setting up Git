@@ -1,0 +1,11 @@
+git init
+git remote add origin git@github.com:trids/Practice.git
+ssh-keygen
+cat /c/Users/lenovo/.ssh/id_rsa.pub
+Paste this key in github portal under account-> ssh -> New ssh
+
+
+git status
+git add
+git commit
+git push origin ...
